@@ -20,7 +20,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="500" height="250" />
+  ![GIF Title](https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr.gif)‏
 </div>
 
 ### :woman_technologist: About Me :
