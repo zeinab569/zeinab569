@@ -46,10 +46,11 @@ I am a Full Stack .Net Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ### :fire: My Stats :
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinab569&show_icons=true&locale=en&layout=compact" alt="eyadhamza" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeinab569&show_icons=true&locale=en" alt="zeinab" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeinab569&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zeinab569&theme=dark&background=000000)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeinab569&" alt="zeinabelazab" /></p>
+
 
 
 
